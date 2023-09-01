@@ -13,6 +13,7 @@ Atualmente estou no **2° semestre**. Sou novato na área de TI, mas busco sempr
  width="50px" />
  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
  width="50px" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
 
  ### Linguagens usadas:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lGuedes01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
