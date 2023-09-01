@@ -15,6 +15,7 @@ Atualmente estou no **2° semestre**. Sou novato na área de TI, mas busco sempr
  width="50px" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
 
+### Status:
 <div>
 <a href="https://github.com/lGuedes01">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lGuedes01&layout=compact&langs_count=7&theme=dracula"/>
