@@ -2,7 +2,7 @@
 
 * 📚 Sou estudante de Ciência da Computação pela Universidade Federal de Santa Maria - UFSM.
 * 
-Atualmente estou no **2° semestre**. Sou novato na área de TI, mas busco sempre melhorar e aprender coisas novas.
+Atualmente estou no **2° semestre**. 
 
 ### O que você irá encontrar aqui:
 1. Projetos/Trabalhos da faculdade;
