@@ -1,7 +1,7 @@
 ### Oláá, meu nome é Lucas 👋
 
 * 📚 Sou estudante de Ciência da Computação pela Universidade Federal de Santa Maria - UFSM.
-*  Atualmente estou no **2° semestre**.  
+*  Atualmente estou no **3° semestre**.  
 * 
 
 
